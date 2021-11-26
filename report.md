@@ -7,7 +7,7 @@
 На тестирование затрачено: 2ч
 
 В результате тестирования выявлены следующие дефекты:
-* https://docs.google.com/spreadsheets/d/19k5Og1voHRBwV9u-ZHvet2Z_jC2rcpbSv1uJ7vl99Ms/edit?usp=sharing
+* https://github.com/Artem-Mv/JavaHW1/issues/1
 
 ## Описание процесса тестирования
 
